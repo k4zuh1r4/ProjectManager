@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="picton_blue">#00A7E1</color>
+    <color name="rich_black">#00171F</color>
+    <color name="prussian_blue">#003459</color>
+    <color name="cerulean">#007EA7</color>
+    <color name="black">#FF000000</color>
+</resources>

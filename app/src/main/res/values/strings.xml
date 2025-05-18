@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProjectManager</string>
+    <string name="test">test</string>
+    <string name="subtext">subtext</string>
+    <string name="search">Search</string>
+</resources>
